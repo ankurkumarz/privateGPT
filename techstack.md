@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ankurkumarz/privateGPT](https://github.com/ankurkumarz/privateGPT)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|16<br/>Tools used|12/14/23 <br/>Report generated|
+|16<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -126,7 +126,7 @@ Full tech stack [here](/techstack.md)
 |:------|:------|:------|:------|:------|:------|
 |[chromadb](https://pypi.org/project/chromadb)|v0.3.23|05/18/23|Iván Martínez |N/A|N/A|
 |[gpt4all](https://pypi.org/project/gpt4all)|v0.2.3|05/23/23|Iván Martínez |N/A|N/A|
-|[langchain](https://pypi.org/project/langchain)|v0.0.177|05/23/23|Iván Martínez |N/A|[CVE-2023-36095](https://github.com/advisories/GHSA-gwqq-6vq7-5j86) (Critical)<br/>[CVE-2023-38860](https://github.com/advisories/GHSA-fj32-q626-pjjc) (Critical)<br/>[CVE-2023-38896](https://github.com/advisories/GHSA-92j5-3459-qgp4) (Critical)<br/>[CVE-2023-36188](https://github.com/advisories/GHSA-57fc-8q82-gfp3) (Critical)<br/>[CVE-2023-34541](https://github.com/advisories/GHSA-6643-h7h5-x9wh) (Critical)<br/>[CVE-2023-39659](https://github.com/advisories/GHSA-prgp-w7vf-ch62) (Critical)<br/>[CVE-2023-34540](https://github.com/advisories/GHSA-x32c-59v5-h7fg) (Critical)<br/>[CVE-2023-39631](https://github.com/advisories/GHSA-f73w-4m7g-ch9x) (Critical)<br/>[CVE-2023-36281](https://github.com/advisories/GHSA-7gfq-f96f-g85j) (Critical)<br/>[CVE-2023-36258](https://github.com/advisories/GHSA-2qmj-7962-cjq8) (Critical)<br/>[CVE-2023-36189](https://github.com/advisories/GHSA-7q94-qpjr-xpgm) (High)<br/>[CVE-2023-46229](https://github.com/advisories/GHSA-655w-fm8m-m478) (High)<br/>[CVE-2023-32786](https://github.com/advisories/GHSA-6h8p-4hx9-w66c) (High)|
+|[langchain](https://pypi.org/project/langchain)|v0.0.177|05/23/23|Iván Martínez |N/A|[CVE-2023-39659](https://github.com/advisories/GHSA-prgp-w7vf-ch62) (Critical)<br/>[CVE-2023-38896](https://github.com/advisories/GHSA-92j5-3459-qgp4) (Critical)<br/>[CVE-2023-38860](https://github.com/advisories/GHSA-fj32-q626-pjjc) (Critical)<br/>[CVE-2023-36095](https://github.com/advisories/GHSA-gwqq-6vq7-5j86) (Critical)<br/>[CVE-2023-34541](https://github.com/advisories/GHSA-6643-h7h5-x9wh) (Critical)<br/>[CVE-2023-36258](https://github.com/advisories/GHSA-2qmj-7962-cjq8) (Critical)<br/>[CVE-2023-36281](https://github.com/advisories/GHSA-7gfq-f96f-g85j) (Critical)<br/>[CVE-2023-39631](https://github.com/advisories/GHSA-f73w-4m7g-ch9x) (Critical)<br/>[CVE-2023-34540](https://github.com/advisories/GHSA-x32c-59v5-h7fg) (Critical)<br/>[CVE-2023-36188](https://github.com/advisories/GHSA-57fc-8q82-gfp3) (Critical)<br/>[CVE-2023-46229](https://github.com/advisories/GHSA-655w-fm8m-m478) (High)<br/>[CVE-2023-36189](https://github.com/advisories/GHSA-7q94-qpjr-xpgm) (High)<br/>[CVE-2023-32786](https://github.com/advisories/GHSA-6h8p-4hx9-w66c) (High)|
 |[pdfminer.six](https://pypi.org/project/pdfminer.six)|N/A|05/12/23|Santhosh Solomon |MIT|N/A|
 |[pypandoc](https://pypi.org/project/pypandoc)|v1.11|05/18/23|jiangzhuo |MIT|N/A|
 |[python-dotenv](https://pypi.org/project/python-dotenv)|v1.0.0|05/18/23|Iván Martínez |BSD-3-Clause|N/A|
