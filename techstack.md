@@ -4,10 +4,10 @@
 ankurkumarz/privateGPT is built on the following main stack:
 
 - [Python](https://www.python.org) – Languages
-- [Pandoc](https://pandoc.org/) – File Conversion
-- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
 - [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
+- [Pandoc](https://pandoc.org/) – File Conversion
 - [GPT4All](https://gpt4all.io/index.html) – GPT Tools
+- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -18,10 +18,10 @@ Full tech stack [here](/techstack.md)
 ankurkumarz/privateGPT is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2330/no-img-open-source.png' alt='Pandoc'/> [Pandoc](https://pandoc.org/) – File Conversion
-- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'/> [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2330/no-img-open-source.png' alt='Pandoc'/> [Pandoc](https://pandoc.org/) – File Conversion
 - <img width='25' height='25' src='https://img.stackshare.io/service/109223/default_f477d8a1160a73dc008ccb33efa5d4b9d45baa07.png' alt='GPT4All'/> [GPT4All](https://gpt4all.io/index.html) – GPT Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ankurkumarz/privateGPT](https://github.com/ankurkumarz/privateGPT)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|16<br/>Tools used|01/05/24 <br/>Report generated|
+|16<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -126,7 +126,7 @@ Full tech stack [here](/techstack.md)
 |:------|:------|:------|:------|:------|:------|
 |[chromadb](https://pypi.org/project/chromadb)|v0.3.23|05/18/23|Iván Martínez |N/A|N/A|
 |[gpt4all](https://pypi.org/project/gpt4all)|v0.2.3|05/23/23|Iván Martínez |N/A|N/A|
-|[langchain](https://pypi.org/project/langchain)|v0.0.177|05/23/23|Iván Martínez |N/A|[CVE-2023-39659](https://github.com/advisories/GHSA-prgp-w7vf-ch62) (Critical)<br/>[CVE-2023-38896](https://github.com/advisories/GHSA-92j5-3459-qgp4) (Critical)<br/>[CVE-2023-38860](https://github.com/advisories/GHSA-fj32-q626-pjjc) (Critical)<br/>[CVE-2023-36095](https://github.com/advisories/GHSA-gwqq-6vq7-5j86) (Critical)<br/>[CVE-2023-34541](https://github.com/advisories/GHSA-6643-h7h5-x9wh) (Critical)<br/>[CVE-2023-36258](https://github.com/advisories/GHSA-2qmj-7962-cjq8) (Critical)<br/>[CVE-2023-36281](https://github.com/advisories/GHSA-7gfq-f96f-g85j) (Critical)<br/>[CVE-2023-39631](https://github.com/advisories/GHSA-f73w-4m7g-ch9x) (Critical)<br/>[CVE-2023-34540](https://github.com/advisories/GHSA-x32c-59v5-h7fg) (Critical)<br/>[CVE-2023-36188](https://github.com/advisories/GHSA-57fc-8q82-gfp3) (Critical)<br/>[CVE-2023-46229](https://github.com/advisories/GHSA-655w-fm8m-m478) (High)<br/>[CVE-2023-36189](https://github.com/advisories/GHSA-7q94-qpjr-xpgm) (High)<br/>[CVE-2023-32786](https://github.com/advisories/GHSA-6h8p-4hx9-w66c) (High)|
+|[langchain](https://pypi.org/project/langchain)|v0.0.177|05/23/23|Iván Martínez |N/A|[CVE-2023-38860](https://github.com/advisories/GHSA-fj32-q626-pjjc) (Critical)<br/>[CVE-2023-36095](https://github.com/advisories/GHSA-gwqq-6vq7-5j86) (Critical)<br/>[CVE-2023-34541](https://github.com/advisories/GHSA-6643-h7h5-x9wh) (Critical)<br/>[CVE-2023-36258](https://github.com/advisories/GHSA-2qmj-7962-cjq8) (Critical)<br/>[CVE-2023-36281](https://github.com/advisories/GHSA-7gfq-f96f-g85j) (Critical)<br/>[CVE-2023-39631](https://github.com/advisories/GHSA-f73w-4m7g-ch9x) (Critical)<br/>[CVE-2023-34540](https://github.com/advisories/GHSA-x32c-59v5-h7fg) (Critical)<br/>[CVE-2023-39659](https://github.com/advisories/GHSA-prgp-w7vf-ch62) (Critical)<br/>[CVE-2023-36188](https://github.com/advisories/GHSA-57fc-8q82-gfp3) (Critical)<br/>[CVE-2023-38896](https://github.com/advisories/GHSA-92j5-3459-qgp4) (Critical)<br/>[CVE-2023-32786](https://github.com/advisories/GHSA-6h8p-4hx9-w66c) (High)<br/>[CVE-2023-46229](https://github.com/advisories/GHSA-655w-fm8m-m478) (High)<br/>[CVE-2023-36189](https://github.com/advisories/GHSA-7q94-qpjr-xpgm) (High)<br/>[CVE-2024-0243](https://github.com/advisories/GHSA-h9j7-5xvc-qhg5) (Low)|
 |[pdfminer.six](https://pypi.org/project/pdfminer.six)|N/A|05/12/23|Santhosh Solomon |MIT|N/A|
 |[pypandoc](https://pypi.org/project/pypandoc)|v1.11|05/18/23|jiangzhuo |MIT|N/A|
 |[python-dotenv](https://pypi.org/project/python-dotenv)|v1.0.0|05/18/23|Iván Martínez |BSD-3-Clause|N/A|
